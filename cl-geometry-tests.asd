@@ -3,4 +3,4 @@
   :version "0"
   :licence "BSD"
   :components ((:file "test-geometry"))
-  :depends-on (:cl-geometry :vecto :iterate))
+  :depends-on (:cl-geometry :clx :vecto :iterate))
